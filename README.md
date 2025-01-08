@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariglen Poleshi</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 All of my projects are available at [mariglen.website](mariglen.website)
+- 👨‍💻 Personal portfolio: [mariglen.website](mariglen.website)
 
 - 💬 Ask me about **React, JS, SQL, Python, DSA, MongoDB**
 
