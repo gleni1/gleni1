@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 Personal portfolio: [mariglen.website](mariglen.website)
+- 👨‍💻 Personal portfolio: [mariglen.website](https://mariglen.website)
 
 - 💬 Ask me about **React, JS, SQL, Python, DSA, MongoDB**
 
